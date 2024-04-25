@@ -1,0 +1,11 @@
+To install scenic:
+	pip install scenic
+	      or
+	pip install scenic=='version' 
+
+To run scenic file:
+	scenic file_name.scenic --2d 
+
+To run python code of sensors:
+	python file_name.py
+
